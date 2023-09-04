@@ -5,7 +5,4 @@ This is a simple  RESTful API that allows users to create, read, update, and del
 The API can be acces at : http://localhost:8080
 
 Technologies used : 
-JDK
-Maven
-Spring Boot
-Spring Initializer
+JDK, Maven, Spring Boot, Spring Initializer
